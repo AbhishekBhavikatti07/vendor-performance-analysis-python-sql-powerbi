@@ -158,6 +158,6 @@ dashboard/vendor_performance_dashboard.pbix
  <h2><a class='achor'id="author-contact"></a>Author Contact</h2>
 
  **Abhishek Bhavikatti** 
- Data Analyst 
- 📧 Email: bhavikattiabhishek07@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/abhishek-bhavikatti-93a482231)
+ - Data Analyst 
+ - 📧 Email: bhavikattiabhishek07@gmail.com
+ - 🔗 [LinkedIn](www.linkedin.com/in/abhishek-bhavikatti-93a482231)
