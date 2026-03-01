@@ -12,6 +12,7 @@ logs/
 data/
 .DS_STORE/
 *.DS_STORE/
+.Processed_data
 *.db
 
 # Environment
